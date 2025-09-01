@@ -58,3 +58,9 @@ footer {
     max-width: 33%;
     height: auto;
  }
+
+ @media only screen and (max-width: 768px) {
+    .container {
+        text-align: center;
+    }
+ }
